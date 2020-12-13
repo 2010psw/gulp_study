@@ -1,0 +1,27 @@
+{
+  "name": "gulp_study",
+  "version": "1.0.0",
+  "description": "Learn gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2010psw/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2010psw/gulp/issues"
+  },
+  "homepage": "https://github.com/2010psw/gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "@babel/register": "^7.12.10"
+  }
+}
